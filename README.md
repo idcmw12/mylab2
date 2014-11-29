@@ -4,9 +4,9 @@
 부제목 줄
 ---------
 
-*HTML5 강좌
-*nodejs
-*mongoDB
+* HTML5 강좌
+* nodejs
+* mongoDB
 
 '''
 	var a=1;
